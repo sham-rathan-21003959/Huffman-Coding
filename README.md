@@ -20,7 +20,7 @@ Print the characters and its huffmancode.
 ## Program:
 ```
 # Get the input String
-string = 'from robomaster import robot'
+string = 'Welcome to saveetha'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -66,7 +66,7 @@ for (char, frequency) in freq:
  ```
 ## Output:
 ### Print the characters and its huffmancode
-![inp](outpic.png)
+![inp](./photo.png)
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
